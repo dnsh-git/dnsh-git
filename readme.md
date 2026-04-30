@@ -2,7 +2,11 @@
 ### Frontend & Data Analyst
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Frontend%20x%20Data&fontSize=28&fontAlign=50&fontAlignY=50&color=0:0f766e,100:0284c7&fontColor=ffffff" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Dinesh%20Samantaray&fontSize=34&fontAlign=50&fontAlignY=38&desc=Frontend%20%7C%20Data%20Analyst&descAlign=50&descAlignY=62&animation=fadeIn&color=0:0f766e,100:0284c7&fontColor=ffffff" alt="Wavy header banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+clean+frontend+experiences;Solving+real-world+data+problems+with+Python;Open+to+Data+Analyst+%26+Frontend+Internships" alt="Typing animation" />
 </p>
 
 <p align="center">
