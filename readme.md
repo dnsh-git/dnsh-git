@@ -2,7 +2,7 @@
 ### Frontend & Data Analyst
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&text=Frontend%20x%20Data%20Problem%20Solver&fontAlign=50&fontAlignY=50&color=0:0f766e,100:0284c7&fontColor=ffffff" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&text=Frontend%20x%20Data&fontSize=28&fontAlign=50&fontAlignY=50&color=0:0f766e,100:0284c7&fontColor=ffffff" alt="Header banner" />
 </p>
 
 <p align="center">
@@ -35,8 +35,8 @@ I work strongly with Python and enjoy solving real-world data problems with prac
 ### Signify AI (Contributor)
 - Domain: Real-time sign language understanding
 - Stack: Python, scikit-learn, OpenCV, MediaPipe, Tkinter
-- Contribution: Collaborated on a practical AI-based project focused on sign language detection and accessibility use cases
-- Repository: https://github.com/dnsh-git/dnsh-git
+- Contribution: Contributed to an AI project focused on sign language detection for accessibility use cases
+- Repository: https://github.com/proxy-cmd/SignifyAI
 
 ## Education
 
