@@ -1,12 +1,8 @@
 # Dinesh Samantaray
-### Frontend & Data Analyst
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Dinesh%20Samantaray&fontSize=34&fontAlign=50&fontAlignY=38&desc=Frontend%20%7C%20Data%20Analyst&descAlign=50&descAlignY=62&animation=fadeIn&color=0:0f766e,100:0284c7&fontColor=ffffff" alt="Wavy header banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+clean+frontend+experiences;Solving+real-world+data+problems+with+Python;Open+to+Data+Analyst+%26+Frontend+Internships" alt="Typing animation" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Dinesh%20Samantaray&fontSize=40&fontAlign=50&fontAlignY=36&desc=Frontend%20%7C%20Data%20Analyst&descAlign=50&descAlignY=60&animation=fadeIn&color=0:0f766e,100:0284c7&fontColor=ffffff" alt="Wavy header banner" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=1200&height=48&lines=Building+clean+frontend+experiences+%7C+Solving+real-world+data+problems+with+Python+%7C+Open+to+Data+Analyst+%26+Frontend+Internships" alt="Typing animation" />
 </p>
 
 <p align="center">
