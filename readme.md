@@ -1,4 +1,4 @@
-# Dinesh Samantaray
+# Welcome, I am
 
 <p align="center">
   <img width="110%" src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Dinesh%20Samantaray&fontSize=40&fontAlign=50&fontAlignY=36&desc=Frontend%20%7C%20Data%20Analyst&descAlign=50&descAlignY=60&animation=fadeIn&color=0:0f766e,100:0284c7&fontColor=ffffff" alt="Wavy header banner" />
